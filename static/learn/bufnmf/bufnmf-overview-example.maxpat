@@ -225,7 +225,7 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "bang", "float", "" ],
 					"patching_rect" : [ 370.5, 163.600005984306335, 334.0, 35.0 ],
-					"text" : "fluid.bufnmf~ @source drums @components 3 @activations activations @bases bases @resynth resynth"
+					"text" : "fluid.bufnmf~ @source drums @components 3 @activations activations @bases bases @resynth resynth @resynthmode 1"
 				}
 
 			}
